@@ -1,4 +1,0 @@
-Search Query: Lorem, Timestamp: 2023-10-04T07:29:11.170Z
-Search Query: , Timestamp: 2023-10-04T07:29:31.174Z
-Search Query: adadas, Timestamp: 2023-10-04T07:29:39.462Z
-Search Query: ore, Timestamp: 2023-10-04T07:30:01.030Z
